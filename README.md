@@ -1,1 +1,1 @@
-This is Sharon's first git project!
+Odin project. 
